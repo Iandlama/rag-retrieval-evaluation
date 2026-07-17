@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ### 3. Run the script
 ```bash
-python homework3.py
+python ass3.py
 ```
 
 ### 4. Output Files
