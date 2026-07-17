@@ -1,6 +1,6 @@
 # RAG Retrieval and Evaluation on EnterpriseRAG-Bench
 
-This repository contains the implementation of **Homework 3: RAG Retrieval and Evaluation** as part of the Information Retrieval course.
+
 
 ## 📚 Overview
 
@@ -63,6 +63,3 @@ A full report with tables and figures is available in the PDF file included in t
 
 
 
-## 📅 Course
-Information Retrieval, 2026
-```
